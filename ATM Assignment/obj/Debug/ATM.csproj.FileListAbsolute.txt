@@ -1,0 +1,22 @@
+G:\My Drive\Assignments\ATM assignment\Versions\ATM version 2\bin\Debug\ATM.exe.config
+G:\My Drive\Assignments\ATM assignment\Versions\ATM version 2\bin\Debug\ATM.exe
+G:\My Drive\Assignments\ATM assignment\Versions\ATM version 2\bin\Debug\ATM.pdb
+G:\My Drive\Assignments\ATM assignment\Versions\ATM version 2\obj\Debug\ATM.csproj.AssemblyReference.cache
+G:\My Drive\Assignments\ATM assignment\Versions\ATM version 2\obj\Debug\ATM.Form1.resources
+G:\My Drive\Assignments\ATM assignment\Versions\ATM version 2\obj\Debug\ATM.Properties.Resources.resources
+G:\My Drive\Assignments\ATM assignment\Versions\ATM version 2\obj\Debug\ATM.csproj.GenerateResource.cache
+G:\My Drive\Assignments\ATM assignment\Versions\ATM version 2\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+G:\My Drive\Assignments\ATM assignment\Versions\ATM version 2\obj\Debug\ATM.exe
+G:\My Drive\Assignments\ATM assignment\Versions\ATM version 2\obj\Debug\ATM.pdb
+G:\My Drive\Assignments\ATM assignment\Versions\ATM version 2\obj\Debug\ATM.Form2.resources
+C:\Users\Anas\Desktop\ATM Assignment\bin\Debug\ATM.exe.config
+C:\Users\Anas\Desktop\ATM Assignment\bin\Debug\ATM.exe
+C:\Users\Anas\Desktop\ATM Assignment\bin\Debug\ATM.pdb
+C:\Users\Anas\Desktop\ATM Assignment\obj\Debug\ATM.csproj.AssemblyReference.cache
+C:\Users\Anas\Desktop\ATM Assignment\obj\Debug\ATM.MainForm.resources
+C:\Users\Anas\Desktop\ATM Assignment\obj\Debug\ATM.ATMForm.resources
+C:\Users\Anas\Desktop\ATM Assignment\obj\Debug\ATM.Properties.Resources.resources
+C:\Users\Anas\Desktop\ATM Assignment\obj\Debug\ATM.csproj.GenerateResource.cache
+C:\Users\Anas\Desktop\ATM Assignment\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\Anas\Desktop\ATM Assignment\obj\Debug\ATM.exe
+C:\Users\Anas\Desktop\ATM Assignment\obj\Debug\ATM.pdb
